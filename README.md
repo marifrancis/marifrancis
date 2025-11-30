@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="![photo_2025-09-26_18-01-32](https://github.com/user-attachments/assets/46d16c3d-562b-47c7-9d56-123d3b0f8d32)
+" />
 </div>
 
 ###
